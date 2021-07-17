@@ -6,6 +6,7 @@
 
 header, nav, h2, .main-visual, footer {
   font-family: Chalkduster, "Bradley Hand", Courier, "Segoe Print", sans-serif;
+  font-color: red; 
 }
 
 header {
@@ -19,6 +20,7 @@ header {
 header .heading {
   /* headerタグ内のheadingクラスにのみ反映される */
   font-size: 32px;
+  font-color: red; 
 }
 
 .nav-list {
